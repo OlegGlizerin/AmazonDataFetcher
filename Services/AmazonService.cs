@@ -42,7 +42,7 @@ namespace Services
             var kalvins = _wGribService.CalcKelvins(key);
 
             Console.WriteLine($"Kalvins calculated: {kalvins}\n");
-            Console.WriteLine("Click any key to continue...\n");
+            Console.WriteLine("Finished, Click any key and enter to close this window...\n");
             Console.ReadLine();
 
             if (!string.IsNullOrEmpty(kalvins)) 
@@ -60,7 +60,7 @@ namespace Services
         {
             WriteToFile($"Something wrong happened - Result: {kalvins}");
             Console.WriteLine($"Something wrong happened - Result: {kalvins}\n");
-            Console.WriteLine("Click any key to continue...\n");
+            Console.WriteLine("Click any key and enter to continue...\n");
             Console.ReadLine();
         }
 
@@ -78,10 +78,10 @@ namespace Services
         {
             if(File.Exists(Constants.GetDestinationFolder(key)))
             {
-                Console.WriteLine($"The Key: {key} Already Downloaded");
+                Console.WriteLine($"The Key: {key} Already Downloaded in folder: {Constants.GetDestinationFolder(key)}");
                 return true;
             }
-            Console.WriteLine($"The Key: {key} is not Downloaded, will proceed to download process.");
+            Console.WriteLine($"The Key: {key} is not Downloaded, will proceed to download process. To folder: {Constants.GetDestinationFolder(key)}");
             return false;
         }
     }
