@@ -9,6 +9,6 @@ namespace ExternalClients.Interfaces
 {
     public interface IAmazonClient
     {
-        public Task<string> GetFileByDate(AmazonClientRequest request);
+        public Task GetFileByDate(AmazonClientRequest request);
     }
 }
