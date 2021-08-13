@@ -33,7 +33,6 @@ namespace ExternalClients
                 catch (AmazonServiceException e)
                 {
                     Console.WriteLine($"Error in GetFileByDate, Ex: {e}");
-                    return key;
                 }
             }
             Console.WriteLine($"File {key} Downloaded Successfully!");

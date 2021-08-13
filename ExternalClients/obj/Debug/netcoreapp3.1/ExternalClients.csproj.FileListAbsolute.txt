@@ -12,3 +12,9 @@ C:\interviewTasks\IceTestTask\IceTestTask\ExternalClients\obj\Debug\netcoreapp3.
 C:\interviewTasks\IceTestTask\IceTestTask\ExternalClients\obj\Debug\netcoreapp3.1\ExternalClients.csproj.CopyComplete
 C:\interviewTasks\IceTestTask\IceTestTask\ExternalClients\obj\Debug\netcoreapp3.1\ExternalClients.dll
 C:\interviewTasks\IceTestTask\IceTestTask\ExternalClients\obj\Debug\netcoreapp3.1\ExternalClients.pdb
+C:\interviewTasks\AmazonDataFetcher\ExternalClients\obj\Debug\netcoreapp3.1\ExternalClients.csproj.AssemblyReference.cache
+C:\interviewTasks\AmazonDataFetcher\ExternalClients\obj\Debug\netcoreapp3.1\ExternalClients.AssemblyInfoInputs.cache
+C:\interviewTasks\AmazonDataFetcher\ExternalClients\obj\Debug\netcoreapp3.1\ExternalClients.AssemblyInfo.cs
+C:\interviewTasks\AmazonDataFetcher\ExternalClients\obj\Debug\netcoreapp3.1\ExternalClients.csproj.CoreCompileInputs.cache
+C:\interviewTasks\AmazonDataFetcher\ExternalClients\obj\Debug\netcoreapp3.1\ExternalClients.dll
+C:\interviewTasks\AmazonDataFetcher\ExternalClients\obj\Debug\netcoreapp3.1\ExternalClients.pdb

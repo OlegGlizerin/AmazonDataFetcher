@@ -6,3 +6,12 @@ C:\interviewTasks\IceTestTask\IceTestTask\Contracts\obj\Debug\netcoreapp3.1\Cont
 C:\interviewTasks\IceTestTask\IceTestTask\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CoreCompileInputs.cache
 C:\interviewTasks\IceTestTask\IceTestTask\Contracts\obj\Debug\netcoreapp3.1\Contracts.dll
 C:\interviewTasks\IceTestTask\IceTestTask\Contracts\obj\Debug\netcoreapp3.1\Contracts.pdb
+C:\interviewTasks\AmazonDataFetcher\Contracts\bin\Debug\netcoreapp3.1\Contracts.deps.json
+C:\interviewTasks\AmazonDataFetcher\Contracts\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\interviewTasks\AmazonDataFetcher\Contracts\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\interviewTasks\AmazonDataFetcher\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.AssemblyReference.cache
+C:\interviewTasks\AmazonDataFetcher\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfoInputs.cache
+C:\interviewTasks\AmazonDataFetcher\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfo.cs
+C:\interviewTasks\AmazonDataFetcher\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CoreCompileInputs.cache
+C:\interviewTasks\AmazonDataFetcher\Contracts\obj\Debug\netcoreapp3.1\Contracts.dll
+C:\interviewTasks\AmazonDataFetcher\Contracts\obj\Debug\netcoreapp3.1\Contracts.pdb

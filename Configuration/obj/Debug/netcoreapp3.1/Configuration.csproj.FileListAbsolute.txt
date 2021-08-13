@@ -6,3 +6,12 @@ C:\interviewTasks\IceTestTask\IceTestTask\Configuration\obj\Debug\netcoreapp3.1\
 C:\interviewTasks\IceTestTask\IceTestTask\Configuration\obj\Debug\netcoreapp3.1\Configuration.csproj.CoreCompileInputs.cache
 C:\interviewTasks\IceTestTask\IceTestTask\Configuration\obj\Debug\netcoreapp3.1\Configuration.dll
 C:\interviewTasks\IceTestTask\IceTestTask\Configuration\obj\Debug\netcoreapp3.1\Configuration.pdb
+C:\interviewTasks\AmazonDataFetcher\Configuration\bin\Debug\netcoreapp3.1\Configuration.deps.json
+C:\interviewTasks\AmazonDataFetcher\Configuration\bin\Debug\netcoreapp3.1\Configuration.dll
+C:\interviewTasks\AmazonDataFetcher\Configuration\bin\Debug\netcoreapp3.1\Configuration.pdb
+C:\interviewTasks\AmazonDataFetcher\Configuration\obj\Debug\netcoreapp3.1\Configuration.csproj.AssemblyReference.cache
+C:\interviewTasks\AmazonDataFetcher\Configuration\obj\Debug\netcoreapp3.1\Configuration.AssemblyInfoInputs.cache
+C:\interviewTasks\AmazonDataFetcher\Configuration\obj\Debug\netcoreapp3.1\Configuration.AssemblyInfo.cs
+C:\interviewTasks\AmazonDataFetcher\Configuration\obj\Debug\netcoreapp3.1\Configuration.csproj.CoreCompileInputs.cache
+C:\interviewTasks\AmazonDataFetcher\Configuration\obj\Debug\netcoreapp3.1\Configuration.dll
+C:\interviewTasks\AmazonDataFetcher\Configuration\obj\Debug\netcoreapp3.1\Configuration.pdb
