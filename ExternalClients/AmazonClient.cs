@@ -1,13 +1,10 @@
 ﻿using Amazon.Runtime;
 using Amazon.S3;
 using Amazon.S3.Model;
-using Amazon.S3.Transfer;
 using Contracts.ExternalContracts;
-using Contracts.ServiceContracts;
 using ExternalClients.Interfaces;
 using IceTestTask;
 using System;
-using System.IO;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -36,23 +33,20 @@ namespace ExternalClients
                 }
             }
             Console.WriteLine($"File {key} Downloaded Successfully!");
+            Console.WriteLine("Click any key and enter to continue...");
             Console.ReadLine();
-            Console.WriteLine("Click any key to continue...");
         }
 
         private static void Response_WriteObjectProgressEvent(object sender, WriteObjectProgressArgs e)
         {
             ConsoleUtility.WriteProgressBar(e.PercentDone, true);
-            Console.WriteLine($"Tansfered: {e.TransferredBytes}/{e.TotalBytes} - Progress: {e.PercentDone}%");
+            Console.WriteLine($"Transfered: {e.TransferredBytes}/{e.TotalBytes} - Progress: {e.PercentDone}%");
         }
-
-        
 
         public static class ConsoleUtility
         {
             const char _block = '■';
             const string _back = "\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b";
-            const string _twirl = "-\\|/";
             public static void WriteProgressBar(int percent, bool update = false)
             {
                 if (update)
@@ -67,12 +61,6 @@ namespace ExternalClients
                         Console.Write(_block);
                 }
                 Console.Write("] ");
-            }
-            public static void WriteProgress(int progress, bool update = false)
-            {
-                if (update)
-                    Console.Write("\b");
-                Console.Write(_twirl[progress % _twirl.Length]);
             }
         }
 

@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contracts", "Contracts\Cont
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{133759C7-75F0-4983-9906-E4F6997C44B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Configuration", "Configuration\Configuration.csproj", "{FD8B2D62-0CB0-4B5D-A98C-AABDA3D75054}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Configuration", "Configuration\Configuration.csproj", "{FD8B2D62-0CB0-4B5D-A98C-AABDA3D75054}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
