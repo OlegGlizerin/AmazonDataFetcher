@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qk3ZjgNQweshQVBB6SKCst1lB9WflHpI8/fUOQl+7IN/6/Pmp6WiILCpX1viy2Q3TEnmC785UnXbJcVFj6+I9w==",
+  "success": true,
+  "projectFilePath": "C:\\interviewTasks\\AmazonDataFetcher\\Services\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JackSparrow\\.nuget\\packages\\awssdk.core\\3.7.2.1\\awssdk.core.3.7.2.1.nupkg.sha512",
+    "C:\\Users\\JackSparrow\\.nuget\\packages\\awssdk.s3\\3.7.1.21\\awssdk.s3.3.7.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

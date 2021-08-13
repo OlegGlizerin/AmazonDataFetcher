@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AmazonWeatherApplication": {
+      "commandName": "Project",
+      "commandLineArgs": "2021/08/11 06:00"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+C:\interviewTasks\IceTestTask\IceTestTask\Configuration\bin\Debug\netcoreapp3.1\Configuration.deps.json
+C:\interviewTasks\IceTestTask\IceTestTask\Configuration\bin\Debug\netcoreapp3.1\Configuration.dll
+C:\interviewTasks\IceTestTask\IceTestTask\Configuration\bin\Debug\netcoreapp3.1\Configuration.pdb
+C:\interviewTasks\IceTestTask\IceTestTask\Configuration\obj\Debug\netcoreapp3.1\Configuration.AssemblyInfoInputs.cache
+C:\interviewTasks\IceTestTask\IceTestTask\Configuration\obj\Debug\netcoreapp3.1\Configuration.AssemblyInfo.cs
+C:\interviewTasks\IceTestTask\IceTestTask\Configuration\obj\Debug\netcoreapp3.1\Configuration.csproj.CoreCompileInputs.cache
+C:\interviewTasks\IceTestTask\IceTestTask\Configuration\obj\Debug\netcoreapp3.1\Configuration.dll
+C:\interviewTasks\IceTestTask\IceTestTask\Configuration\obj\Debug\netcoreapp3.1\Configuration.pdb

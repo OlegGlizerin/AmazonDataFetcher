@@ -1,0 +1,81 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ExternalClients/1.0.0": {
+        "dependencies": {
+          "AWSSDK.S3": "3.7.1.21",
+          "Configuration": "1.0.0",
+          "Contracts": "1.0.0"
+        },
+        "runtime": {
+          "ExternalClients.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.7.2.1": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.2.1"
+          }
+        }
+      },
+      "AWSSDK.S3/3.7.1.21": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.2.1"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.S3.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.1.21"
+          }
+        }
+      },
+      "Configuration/1.0.0": {
+        "runtime": {
+          "Configuration.dll": {}
+        }
+      },
+      "Contracts/1.0.0": {
+        "runtime": {
+          "Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExternalClients/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.7.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-W0dxLGNhSaAKzXUk2/PCG901SbF1LAN8OkWAicm8dpmKv4HQXO6/GHF/7ZqgPSsWdVwmVmWai8mKk/wSXhVBrg==",
+      "path": "awssdk.core/3.7.2.1",
+      "hashPath": "awssdk.core.3.7.2.1.nupkg.sha512"
+    },
+    "AWSSDK.S3/3.7.1.21": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ewWQEHo1EHDradTpbMu+8cGNjotLawuac7p9vLEWbLRxmObSu7C6sCCU+U0iFKdv9hCi/8jw4TUH7cOjbXEPlA==",
+      "path": "awssdk.s3/3.7.1.21",
+      "hashPath": "awssdk.s3.3.7.1.21.nupkg.sha512"
+    },
+    "Configuration/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
