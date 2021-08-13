@@ -15,31 +15,29 @@ namespace ExternalClients
 {
     public class AmazonClient : IAmazonClient
     {
-        public async Task<string> GetFileByDate(AmazonClientRequest request)
+        public async Task GetFileByDate(AmazonClientRequest request)
         {
-            var key = $"gfs.t00z.pgrb2.0p25.f{request.Forecast}";
-            //var bucketName = Constants.GetBucketName(request.Date);
-            //var destinationFolder = Constants.GetDestinationFolder(key);
+            var key = Constants.GetAmazonKey(request.Forecast);
+            var bucketName = Constants.GetBucketName(request.Date);
+            var destinationFolder = Constants.GetDestinationFolder(key);
 
-            //using (IAmazonS3 client = new AmazonS3Client(Constants.AccessKey, Constants.SecretKey, Amazon.RegionEndpoint.USEast1))
-            //{
-            //    try
-            //    {
-            //        var response = await client.GetObjectAsync(new GetObjectRequest { BucketName = bucketName, Key = key });
-                    
-            //        response.WriteObjectProgressEvent += Response_WriteObjectProgressEvent;
-            //        await response.WriteResponseStreamToFileAsync(destinationFolder, true, CancellationToken.None).ConfigureAwait(false);
-            //    }
-            //    catch(AmazonServiceException e)
-            //    {
-            //        Console.WriteLine($"Error in GetFileByDate, Ex: {e}");
-            //        return key;
-            //    }
-            //}
+            using (IAmazonS3 client = new AmazonS3Client(Constants.AccessKey, Constants.SecretKey, Amazon.RegionEndpoint.USEast1))
+            {
+                try
+                {
+                    var response = await client.GetObjectAsync(new GetObjectRequest { BucketName = bucketName, Key = key });
+
+                    response.WriteObjectProgressEvent += Response_WriteObjectProgressEvent;
+                    await response.WriteResponseStreamToFileAsync(destinationFolder, true, CancellationToken.None).ConfigureAwait(false);
+                }
+                catch (AmazonServiceException e)
+                {
+                    Console.WriteLine($"Error in GetFileByDate, Ex: {e}");
+                }
+            }
             Console.WriteLine($"File {key} Downloaded Successfully!");
             Console.ReadLine();
             Console.WriteLine("Click any key to continue...");
-            return key;
         }
 
         private static void Response_WriteObjectProgressEvent(object sender, WriteObjectProgressArgs e)

@@ -12,7 +12,7 @@ namespace IceTestTask
 
         //Amazon
         public static string GetBucketName(string date) => $"noaa-gfs-bdp-pds/gfs.{date}/00/atmos";
-        //public static string BucketName = "noaa-gfs-bdp-pds/enkfgdas.20210810/00/atmos/mem001";
+        public static string GetAmazonKey(string forecast) => $"gfs.t00z.pgrb2.0p25.f{forecast}";
         public static string AccessKey = "AKIA2PHROIFXAMABFET7";
         public static string SecretKey = "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";
 

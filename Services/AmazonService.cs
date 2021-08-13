@@ -27,38 +27,62 @@ namespace Services
         {
             var forecast = _dateForecastService.CalcForecast(request.Date);
 
-            var amazonClientRequest = new AmazonClientRequest
+            var key = Constants.GetAmazonKey(forecast);
+
+            if(!KeyAlreadyDownloaded(key))
             {
-                Date = request.Date.RemoveHours(),
-                Forecast = forecast
-            };
+                var amazonClientRequest = new AmazonClientRequest
+                {
+                    Date = request.Date.RemoveHours(),
+                    Forecast = forecast
+                };
+                await _amazonClient.GetFileByDate(amazonClientRequest).ConfigureAwait(false);
+            }
 
-            var key = await _amazonClient.GetFileByDate(amazonClientRequest).ConfigureAwait(false);
+            var kalvins = _wGribService.CalcKelvins(key);
 
-            var res = _wGribService.CalcKelvins(key);
-
-            Console.WriteLine($"Kalvins calculated: {res}\n");
+            Console.WriteLine($"Kalvins calculated: {kalvins}\n");
             Console.WriteLine("Click any key to continue...\n");
             Console.ReadLine();
 
-            if (!string.IsNullOrEmpty(res)) 
+            if (!string.IsNullOrEmpty(kalvins)) 
             {
-                WriteToFile(((int)Convert.ToDouble(res) - 273).ToString());
+                WriteToFile(KalvinsToCelcius(kalvins).ToString());
             }
             else
             {
-                WriteToFile($"Something wrong happened - Result: {res}");
-                Console.WriteLine($"Something wrong happened - Result: {res}\n");
-                Console.WriteLine("Click any key to continue...\n");
-                Console.ReadLine();
+                HandleError(kalvins);
             }
-
             return key;
+        }
+
+        private void HandleError(string kalvins)
+        {
+            WriteToFile($"Something wrong happened - Result: {kalvins}");
+            Console.WriteLine($"Something wrong happened - Result: {kalvins}\n");
+            Console.WriteLine("Click any key to continue...\n");
+            Console.ReadLine();
+        }
+
+        private int KalvinsToCelcius(string kalvins)
+        {
+            return (int)Convert.ToDouble(kalvins) - 273;
         }
 
         private void WriteToFile(string data)
         {
             File.WriteAllText("Success.txt", data);
+        }
+
+        private bool KeyAlreadyDownloaded(string key)
+        {
+            if(File.Exists(Constants.GetDestinationFolder(key)))
+            {
+                Console.WriteLine($"The Key: {key} Already Downloaded");
+                return true;
+            }
+            Console.WriteLine($"The Key: {key} is not Downloaded, will proceed to download process.");
+            return false;
         }
     }
 }
