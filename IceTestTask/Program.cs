@@ -2,6 +2,7 @@
 using ExternalClients;
 using ExternalClients.Interfaces;
 using Services;
+using Services.Helpers;
 using Services.Interfaces;
 using System;
 using System.Diagnostics;
@@ -12,13 +13,13 @@ namespace IceTestTask
 {
     public class Program
     {
-        public static IAmazonService AmazonService = new AmazonService(new AmazonClient(), new DateForecastService(), new WGribService());
+        private static IAmazonService _amazonService = new AmazonService(new AmazonClient(), new DateForecastService(), new WGribService(), new ConsoleWrapper());
 
         public async static Task Main(string[] args)
         {
             try
             {
-                await AmazonService.DownloadFileFromAmazon(new AmazonServiceReq
+                await _amazonService.DownloadFileFromAmazon(new AmazonServiceReq
                 {
                     Date = args[0] + " " + args[1]
                 }).ConfigureAwait(false);

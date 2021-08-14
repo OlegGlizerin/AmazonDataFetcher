@@ -1,20 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "/CgSSollPIafdKMJioN18KUDn6KJQMtMS0uBCYtW4giQA50u0+4NUSgejbVc587heRksuHLhee80VYwh+OtcRQ==",
+  "dgSpecHash": "FqGIvxgU53fGqeWvulxGLxZsjjN3BmXTkp0SPidXHQ50gHFswuLJWjTxLGl/nzwyxNhs42MRBOJyawmEyEAJoA==",
   "success": true,
   "projectFilePath": "C:\\interviewTasks\\AmazonDataFetcher\\ExternalClients\\ExternalClients.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JackSparrow\\.nuget\\packages\\awssdk.core\\3.7.2.1\\awssdk.core.3.7.2.1.nupkg.sha512",
-    "C:\\Users\\JackSparrow\\.nuget\\packages\\awssdk.s3\\3.7.1.21\\awssdk.s3.3.7.1.21.nupkg.sha512",
-    "C:\\Users\\JackSparrow\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
-    "C:\\Users\\JackSparrow\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
-    "C:\\Users\\JackSparrow\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\system.configuration.configurationmanager.5.0.0.nupkg.sha512",
-    "C:\\Users\\JackSparrow\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
-    "C:\\Users\\JackSparrow\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
-    "C:\\Users\\JackSparrow\\.nuget\\packages\\system.security.cryptography.protecteddata\\5.0.0\\system.security.cryptography.protecteddata.5.0.0.nupkg.sha512",
-    "C:\\Users\\JackSparrow\\.nuget\\packages\\system.security.permissions\\5.0.0\\system.security.permissions.5.0.0.nupkg.sha512",
-    "C:\\Users\\JackSparrow\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
-    "C:\\Users\\JackSparrow\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
+    "C:\\Users\\JackSparrow\\.nuget\\packages\\awssdk.s3\\3.7.1.21\\awssdk.s3.3.7.1.21.nupkg.sha512"
   ],
   "logs": []
 }

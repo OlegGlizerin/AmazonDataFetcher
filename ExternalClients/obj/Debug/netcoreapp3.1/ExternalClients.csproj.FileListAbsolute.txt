@@ -26,4 +26,3 @@ C:\interviewTasks\AmazonDataFetcher\ExternalClients\bin\Debug\netcoreapp3.1\Cont
 C:\interviewTasks\AmazonDataFetcher\ExternalClients\bin\Debug\netcoreapp3.1\Configuration.pdb
 C:\interviewTasks\AmazonDataFetcher\ExternalClients\bin\Debug\netcoreapp3.1\Contracts.pdb
 C:\interviewTasks\AmazonDataFetcher\ExternalClients\obj\Debug\netcoreapp3.1\ExternalClients.csproj.CopyComplete
-C:\interviewTasks\AmazonDataFetcher\ExternalClients\bin\Debug\netcoreapp3.1\Configuration.dll.config

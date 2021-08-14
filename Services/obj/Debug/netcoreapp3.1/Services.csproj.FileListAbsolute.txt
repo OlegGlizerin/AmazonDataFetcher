@@ -30,4 +30,3 @@ C:\interviewTasks\AmazonDataFetcher\Services\obj\Debug\netcoreapp3.1\Services.cs
 C:\interviewTasks\AmazonDataFetcher\Services\obj\Debug\netcoreapp3.1\Services.csproj.CopyComplete
 C:\interviewTasks\AmazonDataFetcher\Services\obj\Debug\netcoreapp3.1\Services.dll
 C:\interviewTasks\AmazonDataFetcher\Services\obj\Debug\netcoreapp3.1\Services.pdb
-C:\interviewTasks\AmazonDataFetcher\Services\bin\Debug\netcoreapp3.1\Configuration.dll.config
