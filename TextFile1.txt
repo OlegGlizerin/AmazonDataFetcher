@@ -1,2 +1,0 @@
-AccessKey = "AKIA2PHROIFXAMABFET7";
-SecretKey = "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";
