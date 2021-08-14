@@ -3,6 +3,7 @@ using Contracts.ServiceContracts;
 using ExternalClients.Interfaces;
 using IceTestTask;
 using Services.Extentions;
+using Services.Helpers;
 using Services.Interfaces;
 using System;
 using System.IO;
@@ -15,12 +16,14 @@ namespace Services
         private IAmazonClient _amazonClient;
         private IDateForecastService _dateForecastService;
         private IWGribService _wGribService;
+        private IConsole _console;
 
-        public AmazonService(IAmazonClient amazonClient, IDateForecastService dateForecastService, IWGribService wGribService)
+        public AmazonService(IAmazonClient amazonClient, IDateForecastService dateForecastService, IWGribService wGribService, IConsole console)
         {
             _amazonClient = amazonClient;
             _dateForecastService = dateForecastService;
             _wGribService = wGribService;
+            _console = console;
         }
 
         public async Task<string> DownloadFileFromAmazon(AmazonServiceReq request)
@@ -29,11 +32,11 @@ namespace Services
 
             var key = Constants.GetAmazonKey(forecast);
 
-            if(!KeyAlreadyDownloaded(key))
+            if(!FileAlreadyDownloaded(key))
             {
                 var amazonClientRequest = new AmazonClientRequest
                 {
-                    Date = request.Date.RemoveHours(),
+                    Date = request.Date.RemoveHoursAndSlashes(),
                     Forecast = forecast
                 };
                 await _amazonClient.GetFileByDate(amazonClientRequest).ConfigureAwait(false);
@@ -43,7 +46,7 @@ namespace Services
 
             Console.WriteLine($"Kalvins calculated: {kalvins}\n");
             Console.WriteLine("Finished, Click any key and enter to close this window...\n");
-            Console.ReadLine();
+            _console.ReadLine();
 
             if (!string.IsNullOrEmpty(kalvins)) 
             {
@@ -74,7 +77,7 @@ namespace Services
             File.WriteAllText("Success.txt", data);
         }
 
-        private bool KeyAlreadyDownloaded(string key)
+        private bool FileAlreadyDownloaded(string key)
         {
             if(File.Exists(Constants.GetDestinationFolder(key)))
             {

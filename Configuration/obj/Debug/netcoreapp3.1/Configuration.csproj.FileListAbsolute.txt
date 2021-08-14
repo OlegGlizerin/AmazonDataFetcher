@@ -15,4 +15,3 @@ C:\interviewTasks\AmazonDataFetcher\Configuration\obj\Debug\netcoreapp3.1\Config
 C:\interviewTasks\AmazonDataFetcher\Configuration\obj\Debug\netcoreapp3.1\Configuration.csproj.CoreCompileInputs.cache
 C:\interviewTasks\AmazonDataFetcher\Configuration\obj\Debug\netcoreapp3.1\Configuration.dll
 C:\interviewTasks\AmazonDataFetcher\Configuration\obj\Debug\netcoreapp3.1\Configuration.pdb
-C:\interviewTasks\AmazonDataFetcher\Configuration\bin\Debug\netcoreapp3.1\Configuration.dll.config
