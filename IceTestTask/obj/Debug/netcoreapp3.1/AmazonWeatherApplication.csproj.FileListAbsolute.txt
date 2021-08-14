@@ -46,3 +46,27 @@ C:\interviewTasks\AmazonDataFetcher\IceTestTask\obj\Debug\netcoreapp3.1\AmazonWe
 C:\interviewTasks\AmazonDataFetcher\IceTestTask\obj\Debug\netcoreapp3.1\AmazonWeatherApplication.dll
 C:\interviewTasks\AmazonDataFetcher\IceTestTask\obj\Debug\netcoreapp3.1\AmazonWeatherApplication.pdb
 C:\interviewTasks\AmazonDataFetcher\IceTestTask\obj\Debug\netcoreapp3.1\AmazonWeatherApplication.genruntimeconfig.cache
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\IceTestTask\bin\Debug\netcoreapp3.1\AmazonWeatherApplication.exe
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\IceTestTask\bin\Debug\netcoreapp3.1\AmazonWeatherApplication.deps.json
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\IceTestTask\bin\Debug\netcoreapp3.1\AmazonWeatherApplication.runtimeconfig.json
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\IceTestTask\bin\Debug\netcoreapp3.1\AmazonWeatherApplication.runtimeconfig.dev.json
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\IceTestTask\bin\Debug\netcoreapp3.1\AmazonWeatherApplication.dll
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\IceTestTask\bin\Debug\netcoreapp3.1\AmazonWeatherApplication.pdb
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\IceTestTask\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\IceTestTask\bin\Debug\netcoreapp3.1\AWSSDK.S3.dll
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\IceTestTask\bin\Debug\netcoreapp3.1\Configuration.dll
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\IceTestTask\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\IceTestTask\bin\Debug\netcoreapp3.1\ExternalClients.dll
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\IceTestTask\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\IceTestTask\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\IceTestTask\bin\Debug\netcoreapp3.1\Configuration.pdb
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\IceTestTask\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\IceTestTask\bin\Debug\netcoreapp3.1\ExternalClients.pdb
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\IceTestTask\obj\Debug\netcoreapp3.1\AmazonWeatherApplication.csproj.AssemblyReference.cache
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\IceTestTask\obj\Debug\netcoreapp3.1\AmazonWeatherApplication.AssemblyInfoInputs.cache
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\IceTestTask\obj\Debug\netcoreapp3.1\AmazonWeatherApplication.AssemblyInfo.cs
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\IceTestTask\obj\Debug\netcoreapp3.1\AmazonWeatherApplication.csproj.CoreCompileInputs.cache
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\IceTestTask\obj\Debug\netcoreapp3.1\AmazonWeatherApplication.csproj.CopyComplete
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\IceTestTask\obj\Debug\netcoreapp3.1\AmazonWeatherApplication.dll
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\IceTestTask\obj\Debug\netcoreapp3.1\AmazonWeatherApplication.pdb
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\IceTestTask\obj\Debug\netcoreapp3.1\AmazonWeatherApplication.genruntimeconfig.cache

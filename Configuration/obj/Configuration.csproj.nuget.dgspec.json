@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\interviewTasks\\AmazonDataFetcher\\Configuration\\Configuration.csproj": {}
+    "C:\\Users\\JackSparrow\\OneDrive\\Desktop\\test remote\\AmazonDataFetcher\\Configuration\\Configuration.csproj": {}
   },
   "projects": {
-    "C:\\interviewTasks\\AmazonDataFetcher\\Configuration\\Configuration.csproj": {
+    "C:\\Users\\JackSparrow\\OneDrive\\Desktop\\test remote\\AmazonDataFetcher\\Configuration\\Configuration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\interviewTasks\\AmazonDataFetcher\\Configuration\\Configuration.csproj",
+        "projectUniqueName": "C:\\Users\\JackSparrow\\OneDrive\\Desktop\\test remote\\AmazonDataFetcher\\Configuration\\Configuration.csproj",
         "projectName": "Configuration",
-        "projectPath": "C:\\interviewTasks\\AmazonDataFetcher\\Configuration\\Configuration.csproj",
+        "projectPath": "C:\\Users\\JackSparrow\\OneDrive\\Desktop\\test remote\\AmazonDataFetcher\\Configuration\\Configuration.csproj",
         "packagesPath": "C:\\Users\\JackSparrow\\.nuget\\packages\\",
-        "outputPath": "C:\\interviewTasks\\AmazonDataFetcher\\Configuration\\obj\\",
+        "outputPath": "C:\\Users\\JackSparrow\\OneDrive\\Desktop\\test remote\\AmazonDataFetcher\\Configuration\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JackSparrow\\AppData\\Roaming\\NuGet\\NuGet.Config",

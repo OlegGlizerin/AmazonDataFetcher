@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FqGIvxgU53fGqeWvulxGLxZsjjN3BmXTkp0SPidXHQ50gHFswuLJWjTxLGl/nzwyxNhs42MRBOJyawmEyEAJoA==",
+  "dgSpecHash": "RaoSFALifUeyYF9K8BTVCXxAwqHm3PPg6uDK3WTHHcZ1vQ59W6Np4I5SNQUAT8hA8+7py20sSVUIuFGh+bEcZg==",
   "success": true,
-  "projectFilePath": "C:\\interviewTasks\\AmazonDataFetcher\\ExternalClients\\ExternalClients.csproj",
+  "projectFilePath": "C:\\Users\\JackSparrow\\OneDrive\\Desktop\\test remote\\AmazonDataFetcher\\ExternalClients\\ExternalClients.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JackSparrow\\.nuget\\packages\\awssdk.core\\3.7.2.1\\awssdk.core.3.7.2.1.nupkg.sha512",
     "C:\\Users\\JackSparrow\\.nuget\\packages\\awssdk.s3\\3.7.1.21\\awssdk.s3.3.7.1.21.nupkg.sha512"

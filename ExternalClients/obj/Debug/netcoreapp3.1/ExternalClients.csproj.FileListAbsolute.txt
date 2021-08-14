@@ -26,3 +26,17 @@ C:\interviewTasks\AmazonDataFetcher\ExternalClients\bin\Debug\netcoreapp3.1\Cont
 C:\interviewTasks\AmazonDataFetcher\ExternalClients\bin\Debug\netcoreapp3.1\Configuration.pdb
 C:\interviewTasks\AmazonDataFetcher\ExternalClients\bin\Debug\netcoreapp3.1\Contracts.pdb
 C:\interviewTasks\AmazonDataFetcher\ExternalClients\obj\Debug\netcoreapp3.1\ExternalClients.csproj.CopyComplete
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\ExternalClients\bin\Debug\netcoreapp3.1\ExternalClients.deps.json
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\ExternalClients\bin\Debug\netcoreapp3.1\ExternalClients.dll
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\ExternalClients\bin\Debug\netcoreapp3.1\ExternalClients.pdb
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\ExternalClients\bin\Debug\netcoreapp3.1\Configuration.dll
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\ExternalClients\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\ExternalClients\bin\Debug\netcoreapp3.1\Configuration.pdb
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\ExternalClients\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\ExternalClients\obj\Debug\netcoreapp3.1\ExternalClients.csproj.AssemblyReference.cache
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\ExternalClients\obj\Debug\netcoreapp3.1\ExternalClients.AssemblyInfoInputs.cache
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\ExternalClients\obj\Debug\netcoreapp3.1\ExternalClients.AssemblyInfo.cs
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\ExternalClients\obj\Debug\netcoreapp3.1\ExternalClients.csproj.CoreCompileInputs.cache
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\ExternalClients\obj\Debug\netcoreapp3.1\ExternalClients.csproj.CopyComplete
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\ExternalClients\obj\Debug\netcoreapp3.1\ExternalClients.dll
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\ExternalClients\obj\Debug\netcoreapp3.1\ExternalClients.pdb

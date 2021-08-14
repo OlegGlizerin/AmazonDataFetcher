@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\interviewTasks\\AmazonDataFetcher\\IceTestTask\\AmazonWeatherApplication.csproj": {}
+    "C:\\Users\\JackSparrow\\OneDrive\\Desktop\\test remote\\AmazonDataFetcher\\IceTestTask\\AmazonWeatherApplication.csproj": {}
   },
   "projects": {
-    "C:\\interviewTasks\\AmazonDataFetcher\\Configuration\\Configuration.csproj": {
+    "C:\\Users\\JackSparrow\\OneDrive\\Desktop\\test remote\\AmazonDataFetcher\\Configuration\\Configuration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\interviewTasks\\AmazonDataFetcher\\Configuration\\Configuration.csproj",
+        "projectUniqueName": "C:\\Users\\JackSparrow\\OneDrive\\Desktop\\test remote\\AmazonDataFetcher\\Configuration\\Configuration.csproj",
         "projectName": "Configuration",
-        "projectPath": "C:\\interviewTasks\\AmazonDataFetcher\\Configuration\\Configuration.csproj",
+        "projectPath": "C:\\Users\\JackSparrow\\OneDrive\\Desktop\\test remote\\AmazonDataFetcher\\Configuration\\Configuration.csproj",
         "packagesPath": "C:\\Users\\JackSparrow\\.nuget\\packages\\",
-        "outputPath": "C:\\interviewTasks\\AmazonDataFetcher\\Configuration\\obj\\",
+        "outputPath": "C:\\Users\\JackSparrow\\OneDrive\\Desktop\\test remote\\AmazonDataFetcher\\Configuration\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JackSparrow\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\interviewTasks\\AmazonDataFetcher\\Contracts\\Contracts.csproj": {
+    "C:\\Users\\JackSparrow\\OneDrive\\Desktop\\test remote\\AmazonDataFetcher\\Contracts\\Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\interviewTasks\\AmazonDataFetcher\\Contracts\\Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\JackSparrow\\OneDrive\\Desktop\\test remote\\AmazonDataFetcher\\Contracts\\Contracts.csproj",
         "projectName": "Contracts",
-        "projectPath": "C:\\interviewTasks\\AmazonDataFetcher\\Contracts\\Contracts.csproj",
+        "projectPath": "C:\\Users\\JackSparrow\\OneDrive\\Desktop\\test remote\\AmazonDataFetcher\\Contracts\\Contracts.csproj",
         "packagesPath": "C:\\Users\\JackSparrow\\.nuget\\packages\\",
-        "outputPath": "C:\\interviewTasks\\AmazonDataFetcher\\Contracts\\obj\\",
+        "outputPath": "C:\\Users\\JackSparrow\\OneDrive\\Desktop\\test remote\\AmazonDataFetcher\\Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JackSparrow\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -112,14 +112,14 @@
         }
       }
     },
-    "C:\\interviewTasks\\AmazonDataFetcher\\ExternalClients\\ExternalClients.csproj": {
+    "C:\\Users\\JackSparrow\\OneDrive\\Desktop\\test remote\\AmazonDataFetcher\\ExternalClients\\ExternalClients.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\interviewTasks\\AmazonDataFetcher\\ExternalClients\\ExternalClients.csproj",
+        "projectUniqueName": "C:\\Users\\JackSparrow\\OneDrive\\Desktop\\test remote\\AmazonDataFetcher\\ExternalClients\\ExternalClients.csproj",
         "projectName": "ExternalClients",
-        "projectPath": "C:\\interviewTasks\\AmazonDataFetcher\\ExternalClients\\ExternalClients.csproj",
+        "projectPath": "C:\\Users\\JackSparrow\\OneDrive\\Desktop\\test remote\\AmazonDataFetcher\\ExternalClients\\ExternalClients.csproj",
         "packagesPath": "C:\\Users\\JackSparrow\\.nuget\\packages\\",
-        "outputPath": "C:\\interviewTasks\\AmazonDataFetcher\\ExternalClients\\obj\\",
+        "outputPath": "C:\\Users\\JackSparrow\\OneDrive\\Desktop\\test remote\\AmazonDataFetcher\\ExternalClients\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JackSparrow\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -136,11 +136,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\interviewTasks\\AmazonDataFetcher\\Configuration\\Configuration.csproj": {
-                "projectPath": "C:\\interviewTasks\\AmazonDataFetcher\\Configuration\\Configuration.csproj"
+              "C:\\Users\\JackSparrow\\OneDrive\\Desktop\\test remote\\AmazonDataFetcher\\Configuration\\Configuration.csproj": {
+                "projectPath": "C:\\Users\\JackSparrow\\OneDrive\\Desktop\\test remote\\AmazonDataFetcher\\Configuration\\Configuration.csproj"
               },
-              "C:\\interviewTasks\\AmazonDataFetcher\\Contracts\\Contracts.csproj": {
-                "projectPath": "C:\\interviewTasks\\AmazonDataFetcher\\Contracts\\Contracts.csproj"
+              "C:\\Users\\JackSparrow\\OneDrive\\Desktop\\test remote\\AmazonDataFetcher\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\JackSparrow\\OneDrive\\Desktop\\test remote\\AmazonDataFetcher\\Contracts\\Contracts.csproj"
               }
             }
           }
@@ -179,14 +179,14 @@
         }
       }
     },
-    "C:\\interviewTasks\\AmazonDataFetcher\\IceTestTask\\AmazonWeatherApplication.csproj": {
+    "C:\\Users\\JackSparrow\\OneDrive\\Desktop\\test remote\\AmazonDataFetcher\\IceTestTask\\AmazonWeatherApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\interviewTasks\\AmazonDataFetcher\\IceTestTask\\AmazonWeatherApplication.csproj",
+        "projectUniqueName": "C:\\Users\\JackSparrow\\OneDrive\\Desktop\\test remote\\AmazonDataFetcher\\IceTestTask\\AmazonWeatherApplication.csproj",
         "projectName": "AmazonWeatherApplication",
-        "projectPath": "C:\\interviewTasks\\AmazonDataFetcher\\IceTestTask\\AmazonWeatherApplication.csproj",
+        "projectPath": "C:\\Users\\JackSparrow\\OneDrive\\Desktop\\test remote\\AmazonDataFetcher\\IceTestTask\\AmazonWeatherApplication.csproj",
         "packagesPath": "C:\\Users\\JackSparrow\\.nuget\\packages\\",
-        "outputPath": "C:\\interviewTasks\\AmazonDataFetcher\\IceTestTask\\obj\\",
+        "outputPath": "C:\\Users\\JackSparrow\\OneDrive\\Desktop\\test remote\\AmazonDataFetcher\\IceTestTask\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JackSparrow\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -203,8 +203,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\interviewTasks\\AmazonDataFetcher\\Services\\Services.csproj": {
-                "projectPath": "C:\\interviewTasks\\AmazonDataFetcher\\Services\\Services.csproj"
+              "C:\\Users\\JackSparrow\\OneDrive\\Desktop\\test remote\\AmazonDataFetcher\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\JackSparrow\\OneDrive\\Desktop\\test remote\\AmazonDataFetcher\\Services\\Services.csproj"
               }
             }
           }
@@ -237,14 +237,14 @@
         }
       }
     },
-    "C:\\interviewTasks\\AmazonDataFetcher\\Services\\Services.csproj": {
+    "C:\\Users\\JackSparrow\\OneDrive\\Desktop\\test remote\\AmazonDataFetcher\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\interviewTasks\\AmazonDataFetcher\\Services\\Services.csproj",
+        "projectUniqueName": "C:\\Users\\JackSparrow\\OneDrive\\Desktop\\test remote\\AmazonDataFetcher\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\interviewTasks\\AmazonDataFetcher\\Services\\Services.csproj",
+        "projectPath": "C:\\Users\\JackSparrow\\OneDrive\\Desktop\\test remote\\AmazonDataFetcher\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\JackSparrow\\.nuget\\packages\\",
-        "outputPath": "C:\\interviewTasks\\AmazonDataFetcher\\Services\\obj\\",
+        "outputPath": "C:\\Users\\JackSparrow\\OneDrive\\Desktop\\test remote\\AmazonDataFetcher\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JackSparrow\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -261,8 +261,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\interviewTasks\\AmazonDataFetcher\\ExternalClients\\ExternalClients.csproj": {
-                "projectPath": "C:\\interviewTasks\\AmazonDataFetcher\\ExternalClients\\ExternalClients.csproj"
+              "C:\\Users\\JackSparrow\\OneDrive\\Desktop\\test remote\\AmazonDataFetcher\\ExternalClients\\ExternalClients.csproj": {
+                "projectPath": "C:\\Users\\JackSparrow\\OneDrive\\Desktop\\test remote\\AmazonDataFetcher\\ExternalClients\\ExternalClients.csproj"
               }
             }
           }

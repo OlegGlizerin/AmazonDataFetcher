@@ -30,3 +30,19 @@ C:\interviewTasks\AmazonDataFetcher\Services\obj\Debug\netcoreapp3.1\Services.cs
 C:\interviewTasks\AmazonDataFetcher\Services\obj\Debug\netcoreapp3.1\Services.csproj.CopyComplete
 C:\interviewTasks\AmazonDataFetcher\Services\obj\Debug\netcoreapp3.1\Services.dll
 C:\interviewTasks\AmazonDataFetcher\Services\obj\Debug\netcoreapp3.1\Services.pdb
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\Services\bin\Debug\netcoreapp3.1\Services.deps.json
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\Services\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\Services\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\Services\bin\Debug\netcoreapp3.1\Configuration.dll
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\Services\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\Services\bin\Debug\netcoreapp3.1\ExternalClients.dll
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\Services\bin\Debug\netcoreapp3.1\ExternalClients.pdb
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\Services\bin\Debug\netcoreapp3.1\Configuration.pdb
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\Services\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\Services\obj\Debug\netcoreapp3.1\Services.csproj.AssemblyReference.cache
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\Services\obj\Debug\netcoreapp3.1\Services.csproj.CoreCompileInputs.cache
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\Services\obj\Debug\netcoreapp3.1\Services.csproj.CopyComplete
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\Services\obj\Debug\netcoreapp3.1\Services.dll
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\Services\obj\Debug\netcoreapp3.1\Services.pdb

@@ -15,3 +15,12 @@ C:\interviewTasks\AmazonDataFetcher\Contracts\obj\Debug\netcoreapp3.1\Contracts.
 C:\interviewTasks\AmazonDataFetcher\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CoreCompileInputs.cache
 C:\interviewTasks\AmazonDataFetcher\Contracts\obj\Debug\netcoreapp3.1\Contracts.dll
 C:\interviewTasks\AmazonDataFetcher\Contracts\obj\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\Contracts\bin\Debug\netcoreapp3.1\Contracts.deps.json
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\Contracts\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\Contracts\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.AssemblyReference.cache
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfoInputs.cache
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfo.cs
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\Contracts\obj\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\Contracts\obj\Debug\netcoreapp3.1\Contracts.pdb

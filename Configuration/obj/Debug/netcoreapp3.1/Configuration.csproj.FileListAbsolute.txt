@@ -15,3 +15,12 @@ C:\interviewTasks\AmazonDataFetcher\Configuration\obj\Debug\netcoreapp3.1\Config
 C:\interviewTasks\AmazonDataFetcher\Configuration\obj\Debug\netcoreapp3.1\Configuration.csproj.CoreCompileInputs.cache
 C:\interviewTasks\AmazonDataFetcher\Configuration\obj\Debug\netcoreapp3.1\Configuration.dll
 C:\interviewTasks\AmazonDataFetcher\Configuration\obj\Debug\netcoreapp3.1\Configuration.pdb
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\Configuration\bin\Debug\netcoreapp3.1\Configuration.deps.json
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\Configuration\bin\Debug\netcoreapp3.1\Configuration.dll
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\Configuration\bin\Debug\netcoreapp3.1\Configuration.pdb
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\Configuration\obj\Debug\netcoreapp3.1\Configuration.csproj.AssemblyReference.cache
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\Configuration\obj\Debug\netcoreapp3.1\Configuration.AssemblyInfoInputs.cache
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\Configuration\obj\Debug\netcoreapp3.1\Configuration.AssemblyInfo.cs
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\Configuration\obj\Debug\netcoreapp3.1\Configuration.csproj.CoreCompileInputs.cache
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\Configuration\obj\Debug\netcoreapp3.1\Configuration.dll
+C:\Users\JackSparrow\OneDrive\Desktop\test remote\AmazonDataFetcher\Configuration\obj\Debug\netcoreapp3.1\Configuration.pdb

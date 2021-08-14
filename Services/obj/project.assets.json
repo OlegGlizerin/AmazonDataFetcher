@@ -140,11 +140,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\interviewTasks\\AmazonDataFetcher\\Services\\Services.csproj",
+      "projectUniqueName": "C:\\Users\\JackSparrow\\OneDrive\\Desktop\\test remote\\AmazonDataFetcher\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "C:\\interviewTasks\\AmazonDataFetcher\\Services\\Services.csproj",
+      "projectPath": "C:\\Users\\JackSparrow\\OneDrive\\Desktop\\test remote\\AmazonDataFetcher\\Services\\Services.csproj",
       "packagesPath": "C:\\Users\\JackSparrow\\.nuget\\packages\\",
-      "outputPath": "C:\\interviewTasks\\AmazonDataFetcher\\Services\\obj\\",
+      "outputPath": "C:\\Users\\JackSparrow\\OneDrive\\Desktop\\test remote\\AmazonDataFetcher\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JackSparrow\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -161,8 +161,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\interviewTasks\\AmazonDataFetcher\\ExternalClients\\ExternalClients.csproj": {
-              "projectPath": "C:\\interviewTasks\\AmazonDataFetcher\\ExternalClients\\ExternalClients.csproj"
+            "C:\\Users\\JackSparrow\\OneDrive\\Desktop\\test remote\\AmazonDataFetcher\\ExternalClients\\ExternalClients.csproj": {
+              "projectPath": "C:\\Users\\JackSparrow\\OneDrive\\Desktop\\test remote\\AmazonDataFetcher\\ExternalClients\\ExternalClients.csproj"
             }
           }
         }
